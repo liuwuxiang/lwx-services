@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/bin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lwx-all" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lwx-apiserver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lwx-business" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lwx-cloud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lwx-commons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lwx-controller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lwx-dependencies" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lwx-generator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lwx-manager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lwx-oauth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lwx-parent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lwx-repository" vcs="Git" />
+  </component>
+</project>

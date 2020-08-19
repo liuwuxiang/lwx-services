@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lwx-all/lwx-all.iml" filepath="$PROJECT_DIR$/lwx-all/lwx-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lwx-apiserver/lwx-apiserver.iml" filepath="$PROJECT_DIR$/lwx-apiserver/lwx-apiserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lwx-apiserver/lwx-apiserver-dashboard/lwx-apiserver-dashboard.iml" filepath="$PROJECT_DIR$/lwx-apiserver/lwx-apiserver-dashboard/lwx-apiserver-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lwx-business/lwx-business.iml" filepath="$PROJECT_DIR$/lwx-business/lwx-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lwx-business/lwx-business-core/lwx-business-core.iml" filepath="$PROJECT_DIR$/lwx-business/lwx-business-core/lwx-business-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lwx-cloud/lwx-cloud.iml" filepath="$PROJECT_DIR$/lwx-cloud/lwx-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lwx-commons/lwx-commons.iml" filepath="$PROJECT_DIR$/lwx-commons/lwx-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lwx-controller/lwx-controller.iml" filepath="$PROJECT_DIR$/lwx-controller/lwx-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lwx-controller/lwx-controller-dashboard/lwx-controller-dashboard.iml" filepath="$PROJECT_DIR$/lwx-controller/lwx-controller-dashboard/lwx-controller-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lwx-dependencies/lwx-dependencies.iml" filepath="$PROJECT_DIR$/lwx-dependencies/lwx-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lwx-generator/lwx-generator.iml" filepath="$PROJECT_DIR$/lwx-generator/lwx-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lwx-manager/lwx-manager.iml" filepath="$PROJECT_DIR$/lwx-manager/lwx-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lwx-oauth/lwx-oauth.iml" filepath="$PROJECT_DIR$/lwx-oauth/lwx-oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lwx-parent/lwx-parent.iml" filepath="$PROJECT_DIR$/lwx-parent/lwx-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lwx-repository/lwx-repository.iml" filepath="$PROJECT_DIR$/lwx-repository/lwx-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lwx-repository/lwx-repository-core/lwx-repository-core.iml" filepath="$PROJECT_DIR$/lwx-repository/lwx-repository-core/lwx-repository-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lwx-services.iml" filepath="$PROJECT_DIR$/.idea/lwx-services.iml" />
+    </modules>
+  </component>
+</project>

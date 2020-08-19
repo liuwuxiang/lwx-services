@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lwx-all" />
+        <module name="lwx-apiserver-dashboard" />
+        <module name="lwx-controller-dashboard" />
+        <module name="lwx-generator" />
+        <module name="lwx-oauth" />
+        <module name="lwx-commons" />
+        <module name="lwx-business-core" />
+        <module name="lwx-repository-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lwx-all" target="1.8" />
+      <module name="lwx-apiserver" target="1.8" />
+      <module name="lwx-apiserver-dashboard" target="1.8" />
+      <module name="lwx-business" target="1.8" />
+      <module name="lwx-business-core" target="1.8" />
+      <module name="lwx-cloud" target="1.8" />
+      <module name="lwx-commons" target="1.8" />
+      <module name="lwx-controller" target="1.8" />
+      <module name="lwx-controller-dashboard" target="1.8" />
+      <module name="lwx-dependencies" target="1.8" />
+      <module name="lwx-generator" target="1.8" />
+      <module name="lwx-manager" target="1.8" />
+      <module name="lwx-oauth" target="1.8" />
+      <module name="lwx-parent" target="1.8" />
+      <module name="lwx-repository" target="1.8" />
+      <module name="lwx-repository-core" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="lwx-all" options="-parameters" />
+      <module name="lwx-apiserver-dashboard" options="-parameters" />
+      <module name="lwx-business-core" options="-parameters" />
+      <module name="lwx-commons" options="-parameters" />
+      <module name="lwx-controller-dashboard" options="-parameters" />
+      <module name="lwx-generator" options="-parameters" />
+      <module name="lwx-oauth" options="-parameters" />
+      <module name="lwx-repository-core" options="-parameters" />
+    </option>
+  </component>
+</project>
